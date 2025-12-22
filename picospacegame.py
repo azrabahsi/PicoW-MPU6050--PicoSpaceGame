@@ -10,8 +10,8 @@ import gc
 gc.collect()
 
 # --- 1. AYARLAR ---
-ssid = 'Azra'
-password = 'azra1234'
+ssid = 'ssid'
+password = 'sifre'
 
 # --- 2. SENSOR ---
 def init_mpu6050(i2c):
