@@ -87,5 +87,11 @@ adresine girin
 ├── picospacegame.py   # Ana MicroPython uygulaması
 ├── README.md          # Proje dokümantasyonu
 
+👥 Proje Ekibi
+Azra Bahşi
+Osman Küçük
+Osmaniye Korkut Ata Üniversitesi
+Bilgisayar Mühendisliği
+BMB433 – Nesnelerin İnterneti ve Uygulamaları
 
 
